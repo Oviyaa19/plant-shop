@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.c56965f8.css",
-    "main.js": "/static/js/main.ee0835ad.js",
-    "static/js/453.81c3b423.chunk.js": "/static/js/453.81c3b423.chunk.js",
-    "static/media/one (3).jpg": "/static/media/one (3).773ffe7e63aca735ab5f.jpg",
-    "static/media/one (2).jpg": "/static/media/one (2).5e7aab61ff0edb25eea2.jpg",
-    "static/media/cart-bg.jpg": "/static/media/cart-bg.bf816e8ed818cb4f3ade.jpg",
-    "static/media/hibiscus.jpg": "/static/media/hibiscus.a81c8dcbb5f9e97ccbd8.jpg",
-    "static/media/rose.jpg": "/static/media/rose.4a40966e98fd65253012.jpg",
-    "static/media/lavendar.jpg": "/static/media/lavendar.c4e63bf4b99b125de3ca.jpg",
-    "static/media/aloe vera.jpg": "/static/media/aloe vera.39b45fa19c3f2a2e2962.jpg",
-    "static/media/tulasi.jpg": "/static/media/tulasi.fbe96845d7ff54ec2049.jpg",
-    "static/media/logo (2).png": "/static/media/logo (2).e0619f200b8ea961e810.png",
-    "index.html": "/index.html",
-    "main.c56965f8.css.map": "/static/css/main.c56965f8.css.map",
-    "main.ee0835ad.js.map": "/static/js/main.ee0835ad.js.map",
-    "453.81c3b423.chunk.js.map": "/static/js/453.81c3b423.chunk.js.map"
+    "main.css": "/plant-shop/static/css/main.6a687e1e.css",
+    "main.js": "/plant-shop/static/js/main.bc484ced.js",
+    "static/js/453.81c3b423.chunk.js": "/plant-shop/static/js/453.81c3b423.chunk.js",
+    "static/media/one (3).jpg": "/plant-shop/static/media/one (3).773ffe7e63aca735ab5f.jpg",
+    "static/media/one (2).jpg": "/plant-shop/static/media/one (2).5e7aab61ff0edb25eea2.jpg",
+    "static/media/cart-bg.jpg": "/plant-shop/static/media/cart-bg.bf816e8ed818cb4f3ade.jpg",
+    "static/media/hibiscus.jpg": "/plant-shop/static/media/hibiscus.a81c8dcbb5f9e97ccbd8.jpg",
+    "static/media/rose.jpg": "/plant-shop/static/media/rose.4a40966e98fd65253012.jpg",
+    "static/media/lavendar.jpg": "/plant-shop/static/media/lavendar.c4e63bf4b99b125de3ca.jpg",
+    "static/media/aloe vera.jpg": "/plant-shop/static/media/aloe vera.39b45fa19c3f2a2e2962.jpg",
+    "static/media/tulasi.jpg": "/plant-shop/static/media/tulasi.fbe96845d7ff54ec2049.jpg",
+    "static/media/logo (2).png": "/plant-shop/static/media/logo (2).e0619f200b8ea961e810.png",
+    "index.html": "/plant-shop/index.html",
+    "main.6a687e1e.css.map": "/plant-shop/static/css/main.6a687e1e.css.map",
+    "main.bc484ced.js.map": "/plant-shop/static/js/main.bc484ced.js.map",
+    "453.81c3b423.chunk.js.map": "/plant-shop/static/js/453.81c3b423.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c56965f8.css",
-    "static/js/main.ee0835ad.js"
+    "static/css/main.6a687e1e.css",
+    "static/js/main.bc484ced.js"
   ]
 }
